@@ -1,0 +1,34 @@
+*** Briefed Changelog ***
+
+2011.08.05 - version 1.0.6
+ * includes/theme-options.php, 
+   includes/theme-actions.php - updated slider speed options
+
+2011.06.28 - version 1.0.5
+* /includes/tumblog/wootumblog_postformat.class.php - Added fix for bulk editing of posts
+* /includes/tumblog/theme-custom-post-types.php - Added fix for bulk editing of posts
+
+2011.06.13 - version 1.0.4
+ * style.css - Added slider styling & styled subscribe & connect for single page & widgets
+ * images/ico-audio.png - Added audio icon for tumblog
+ * /includes/featured.php - added slider hidden class
+ * /includes/theme-actions.php - added class removal in JS
+ * /includes/theme-options.php - added subscribe and connect options
+ * loop-default.php - added subscribe and connect area
+ * loop-tumblog.php - added subscribe and connect area
+ * /includes/widgets/widget-woo-embed.php - added conditional for tumblog embed video
+ 
+2011.06.03 - version 1.0.3
+ * style.css - Numerous changes regarding styling of social media icons below header, and some tumblog post types.
+ * header.php - Changed social media icons markup
+ * includes/tumblog/theme-tumblog.php - Made a slight adjustment to the Quote post type
+ * images/ - Changed social media icons (Facebook, Twitter, RSS, Email)
+
+2011.06.03 - version 1.0.2
+ * includes/js/jquery.masonry.min.js - Updated Masonry script to latest version to fix Safari bug.
+
+2011.06.01 - version 1.0.1
+ * includes/featured.php - fixed content in slider to hide when disabled in options
+	
+2011.05.26 - version 1.0
+ * First release!

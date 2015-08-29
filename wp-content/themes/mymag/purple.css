@@ -1,0 +1,102 @@
+a {
+color: #8017c9;
+}
+
+a:hover {
+color: #8017c9;
+}
+
+a:visited {
+color: #8017c9;
+}
+
+h1, h2, h3 {
+color: #8017c9;
+}
+
+#desc .title {
+color: #8017c9;
+}
+
+.navigation {
+background: url(images/purple/nav_bg.jpg) repeat-x;
+}
+
+#navcontainer #navbar ul a:hover, #navcontainer #navbar ul a:focus {
+color: #8017c9;
+}
+
+#slider .title h2 a, #slider .title h2 a:visited {
+background: #8017c9;
+}
+
+#slider .title h2 em {
+color: #fff;
+font-weight: normal;
+}
+
+/* Frontpage Styles */
+
+#recent-articles .article h3 a {
+color: #8017c9;
+}
+
+#recent-articles .article h3 a:hover {
+color: #8017c9;
+}
+
+/* Bottom Slider */
+
+.bottomslider h3 {
+color: #8017c9;
+}
+
+.bottomslider h3 a {
+color: #8017c9;
+}
+
+/* Featured Posts & Articles on Frontpage */
+
+.featured-post .content h2 {
+color: #8017c9;
+}
+
+.featured-post .content h2 a {
+color: #8017c9;
+}
+
+.featured-no-post .content h2 {
+color: #8017c9;
+}
+
+.featured-no-post .content h2 a {
+color: #8017c9;
+}
+
+.news-article h3 a {
+color: #8017c9;
+}
+
+ul.newsticker a {
+color: #8017c9;
+}
+
+#subpage .content h2 {
+color: #8017c9;
+}
+
+#subpage .content h2 a {
+color: #8017c9;
+}
+
+.wp-pagenavi a, .wp-pagenavi a:link {
+background-color: #8017c9;
+}
+
+.wp-pagenavi a:visited {
+background-color: #8017c9;
+}
+
+.wp-pagenavi span.pages {
+background-color: #8017c9;
+}

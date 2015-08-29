@@ -1,0 +1,236 @@
+/*  
+Theme Name: White Barners
+Description: Mostly white
+Version: 1.0
+Author: Max Barners
+*/
+
+body {
+margin: 0;
+padding: 0 0 1em 0;
+font: 0.8em georgia, serif;
+background: #fff url(body-bg.gif) top left no-repeat;
+color: #000;
+text-align: center;
+}
+
+body#home {
+background: #fff url(body-bg-home.gif) top left no-repeat;
+}
+
+body#single {
+background: #fff url(body-bg-single.gif) top left no-repeat;
+}
+
+#wrapper {
+clear: both;
+width: 1000px;
+margin: 0 auto;
+}
+
+
+img {
+border: 0;
+}
+
+.single img {
+margin: 0 auto;
+display: block;
+}
+
+a:link {
+color: #000;
+text-decoration: underline;
+}
+
+a:visited {
+color: #999;
+}
+
+a:hover, a:active {
+color: #900;
+text-decoration: none;
+}
+
+h1 {
+margin: 0;
+font-weight: normal;
+font-size: 1em;
+clear: both;
+}
+
+h2 {
+float: right;
+margin: 0 0 1em 0;
+padding: 0.5em 0.5em 0 0.5em;
+text-indent: -9999px;
+}
+
+h2 a {
+display: block;
+background: transparent url(maxbarners.gif) right 0 no-repeat;
+width: 270px;
+height: 40px;
+}
+
+h2 a:hover {
+background: #fff url(maxbarners.gif) right -40px no-repeat;
+}
+
+h3 {
+margin: 0;
+font-weight: normal;
+}
+
+#previous {
+float: left;
+}
+
+#next {
+float: right;
+}
+
+#content {
+clear: both;
+padding-top: 0.5em;
+text-align: left;
+}
+
+#thumbs {
+text-align: center;
+}
+
+#thumbs img {
+margin: 0.5em;
+}
+
+#currently {
+width: 300px;
+margin: 1em auto;
+padding: 1em 0 60px 0;
+border-top: solid 2px #eee;
+background: #fff url(hr-l.gif) bottom center no-repeat;
+}
+
+.posted {
+margin: 1em 0;
+text-align: right;
+font: 1em 'trebuchet ms', sans-serif;
+color: #999;
+}
+
+hr {
+border: none;
+width: 50px;
+height: 50px;
+}
+
+hr.left {
+background: #fff url(hr-l.gif) center center no-repeat;
+}
+
+hr.right {
+background: #fff url(hr-r.gif) center center no-repeat;
+}
+
+
+input, textarea {
+font: 1em georgia, serif;
+}
+
+textarea {
+background: #fff url(comments-bg.gif) bottom right no-repeat;
+border: solid 1px #ccc;
+}
+
+
+#moderation {
+color: #900;
+}
+
+.commentlist li {
+padding-bottom: 1em;
+margin-bottom: 1em;
+border-bottom: solid 2px #eee;
+
+}
+.comment-author-data {
+text-align: right;
+}
+
+textarea {
+width: 600px;
+}
+
+#comment-header {
+margin-top: 2em;
+text-indent: -9999px;
+background: #fff url(comments.gif) top left no-repeat;
+}
+
+#respond {
+margin-top: 2em;
+text-indent: -9999px;
+background: #fff url(leaveacomment.gif) top left no-repeat;
+}
+
+.links ul, .archives ul, .recent-comments ul, .recently ul{
+list-style-type: none;
+}
+
+.links ul li ul li, .archives ul li, .recent-comments ul li, .recently ul li {
+display: inline;
+margin: 0.5em;
+}
+
+#footer {
+clear: both;
+margin-top: 8em;
+padding-top: 60px;
+border-top: solid 2px #eee;
+background: #fff url(hr-l.gif) top center no-repeat;
+}
+
+#footer ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+#footer li {
+display: inline;
+margin: 0 1em;
+}
+
+.webservices img {
+margin: 0;
+border: solid 1px #000;
+}
+
+.webservices h5 {
+font-size: 1.25em;
+text-align: center;
+text-transform: uppercase;
+padding-top: 1em;
+}
+
+.webservices h6 {
+font-size: 1em;
+color: #900;
+border-top: solid 1px #900;
+padding-top: 1em;
+}
+
+#services {
+text-align: center;
+font-size: 1.25em;
+line-height: 2em;
+}
+
+.sax-appeal-shots img {
+display: inline;
+}
+
+.crunched img {
+display: inline;
+}

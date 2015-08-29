@@ -1,0 +1,14 @@
+[08-Apr-2013 23:48:21] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[09-Apr-2013 02:01:17] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[09-Apr-2013 02:45:58] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[09-Apr-2013 03:34:31] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[09-Apr-2013 04:44:32] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[10-Apr-2013 03:52:21] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[10-Apr-2013 09:06:50] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[12-Apr-2013 20:33:42] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[12-Apr-2013 22:24:37] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[12-Apr-2013 23:19:21] PHP Fatal error:  Call to undefined function  get_header() in /home/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[16-Sep-2013 17:03:44] PHP Fatal error:  Call to undefined function  get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/twentyten/search.php on line 10
+[01-Jun-2014 04:01:23 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/twentyten/search.php on line 10
+[08-Jul-2015 15:26:46 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10
+[21-Jul-2015 07:19:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/twentyten/404.php on line 10

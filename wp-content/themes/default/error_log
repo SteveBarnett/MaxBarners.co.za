@@ -1,0 +1,2 @@
+[11-Aug-2013 14:47:32] PHP Fatal error:  Call to undefined function  get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/default/404.php on line 1
+[21-Jul-2015 07:18:56 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/naga/public_html/maxbarners.com/wp-content/themes/default/404.php on line 1
